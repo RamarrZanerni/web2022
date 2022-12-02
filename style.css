@@ -203,7 +203,7 @@ footer{
 
 @media  (max-width:516px){
     .container-3 ,.container-5 {
-        font-size: 1pt;
+        
         background: red;
         text-align: left;
         color: #78065c;
@@ -221,12 +221,13 @@ footer{
     grid-template-columns: 25% 25% 25% 25%;
     padding: 1px 1px ;
     margin: 1px;
+    
 
 
 }
 .container-3 >div{
     background: rgb(234, 182, 182);
-    padding: 1px;
+    padding: 12px;
     border: 1px solid #080608;
     margin: 1px;
     text-align: left;
@@ -546,7 +547,7 @@ footer{
 }
 @media only screen and (max-width: 600px) {
     .analysa-1{
-     font-size: 1px;
+     font-size: 15px;
      font-family: 'Times New Roman', Times, serif;
      display: grid;
      width: 100%;
